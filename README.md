@@ -1,2 +1,2 @@
 # yomata
-Ganer 
+Gamaer/streamer
